@@ -1,7 +1,0 @@
-[ 2025-02-19 17:43:26,869 ] 24 root - INFO - Logging setup complete.
-[ 2025-02-19 17:43:31,856 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
-[ 2025-02-19 17:43:31,860 ] 107 dagshub - INFO - Accessing as Pabitra-Biswas
-[ 2025-02-19 17:43:32,473 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Pabitra-Biswas/networksecurity "HTTP/1.1 200 OK"
-[ 2025-02-19 17:43:33,084 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
-[ 2025-02-19 17:43:33,086 ] 107 dagshub - INFO - Initialized MLflow to track repo "Pabitra-Biswas/networksecurity"
-[ 2025-02-19 17:43:33,088 ] 107 dagshub - INFO - Repository Pabitra-Biswas/networksecurity initialized!
